@@ -1,0 +1,372 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief declaration of the state of the accompt of all monies received and paid, as well for and towards the reparation of the cathedral church of St. Paul, London before the great and dreadful fire, as for and towards the rebuilding thereof, with other necessary works and expenses done and disbursed in order to the beginning of the said work of rebuilding. Printed and published for information of all such as desire to be satisfied in the proceedings therein, and have, or shall hereafter contribute towards so pious and honourable a work.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77419</idno>
+            <idno type="STC">Wing B4564A</idno>
+            <idno type="STC">ESTC R213669</idno>
+            <idno type="EEBO-CITATION">99899820</idno>
+            <idno type="PROQUEST">99899820</idno>
+            <idno type="VID">135516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77419)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135516)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2453:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief declaration of the state of the accompt of all monies received and paid, as well for and towards the reparation of the cathedral church of St. Paul, London before the great and dreadful fire, as for and towards the rebuilding thereof, with other necessary works and expenses done and disbursed in order to the beginning of the said work of rebuilding. Printed and published for information of all such as desire to be satisfied in the proceedings therein, and have, or shall hereafter contribute towards so pious and honourable a work.</title>
+                  <author>Tillison, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed at end: John Tillison, clerk of the works.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>St. Paul's Cathedral (London, England) --  History --  Early works to 1800.</term>
+               <term>Church maintenance and repairs --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:135516:1"/>
+            <head>A BRIEF DECLARATION Of the State of the Accompt of all MONIES Received and Paid, As well for and towards the REPARATION of the Cathedral Church of St. PAUL, London, Before the great and dreadful FIRE, as for and towards the REBUILDING thereof, With other neceſſary <hi>Works</hi> and <hi>Expenſes</hi> done and disburſed in Order to the Beginning of the ſaid Work of Rebuilding.</head>
+            <p>
+               <hi>Printed and Publiſhed for Information of all ſuch as deſire to be ſatisfied in the Proceedings therein, and have, or ſhall hereafter Contribute towards ſo Pious and Honourable a Work.</hi>
+            </p>
+            <p>THere was <hi>Paid</hi> into the Chamber of <hi>London,</hi> and into the Office of the ſaid Works, in the <hi>Convocation-Houſe-Yard,</hi> there, ſince His late Majeſty's Reſtauration, to the 25th Day of <hi>March,</hi> 1685. the Sum of 126564 <hi>l.</hi> 13 <hi>s.</hi> 5 <hi>d.</hi> ¾ (<hi>viz.</hi> as hereafter follows.)</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> His late Majeſty's Gift upon Arrears of Impropriations, not pardoned by the Act of Indempnity</cell>
+                     <cell>002626</cell>
+                     <cell>18</cell>
+                     <cell>11¼</cell>
+                     <cell role="total" rows="8">126564</cell>
+                     <cell role="total" rows="8">13</cell>
+                     <cell role="total" rows="8">05¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> Fines and Forfeitures upon the Green-Wax, which ended <hi>Feb.</hi> 15. 1678.</cell>
+                     <cell>000527</cell>
+                     <cell>01</cell>
+                     <cell>04¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> the Impoſition of Coals at 4 <hi>d.</hi>½ <hi>per</hi> Chaldron</cell>
+                     <cell>068945</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> the Clergy, in Gifts, Legacies and Subſcriptions</cell>
+                     <cell>026035</cell>
+                     <cell>19</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> the Nobility and Gentry, <hi>&amp;c.</hi> in Gifts, Legacies and Subſcriptions</cell>
+                     <cell>012006</cell>
+                     <cell>11</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> Collections upon His late Majeſty's Letters Patents, of which the Clergy gave a conſiderable Part, but the Particulars cannot be diſcover'd for want of Returns of Duplicates from many of the Dioceſſes in <hi>England,</hi> where the Arch-Deacons, and their Officers, Miniſters and Churchwardens, have been very remiſs in purſuing the Directions in the Letters Patents: Thô ſome others have been very diligent, who have not only made ſpeedy Returns, but alſo in diſtinct Particulars; as in the Dioceſſes of <hi>Canterbury, London, Sarum, Gloceſter,</hi> and <hi>Carliſle,</hi> the Arch-Deaconries of <hi>Northampton, Lei<g ref="char:EOLhyphen"/>ceſter, Cheſter,</hi> and ſome others</cell>
+                     <cell>014625</cell>
+                     <cell>19</cell>
+                     <cell>05¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> old Materials ſold (being either uſeleſs or cumberſome.)</cell>
+                     <cell>001360</cell>
+                     <cell>07</cell>
+                     <cell>05½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> Commutation upon Pennances.</cell>
+                     <cell>000436</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>THere hath been <hi>Expended,</hi> in the Reparation of the Church before the Fire of <hi>London;</hi> In Repairing the Weſt End of it after the ſame Fire, which ſucceeded not, but fell down, the Walls and Pillars being periſhed by the Fire; Refining 194 Tuns of Lead out of the Rubbiſh; Repairing the Convocation-Houſe; Building Offices; Making Deſigns and Models; Taking down the great vaſt ruinous Steeple, and the Walls and Pillars of the Church; Maintaining the Cranes and Ways in the Iſle of <hi>Portland;</hi> Removing the Materials and clearing the Ground (in order to lay a new Founda<g ref="char:EOLhyphen"/>tion) begun on the Firſt day of <hi>May,</hi> 1674. the Foundation it ſelf being begun, and the firſt Stone laid, on the 21 day of <hi>June</hi> 1675 following</cell>
+                     <cell>020958</cell>
+                     <cell>09</cell>
+                     <cell>03</cell>
+                     <cell role="total" rows="3">126292</cell>
+                     <cell role="total" rows="3">04</cell>
+                     <cell role="total" rows="3">05</cell>
+                  </row>
+                  <row>
+                     <cell>There hath been Paid and <hi>Expended</hi> in the Rebuilding of the ſaid Church, ſince it was firſt begun, to the laſt day of <hi>March,</hi> 1685, as appears by the Particulars of the Book of Accompts</cell>
+                     <cell>103693</cell>
+                     <cell>03</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>And there is more <hi>Due</hi> to Maſons for Stones wrought and not ſet, and for other Work wrought and ſet, which cannot be yet exactly meaſured, and other Expences for Stone and other Materials: all which, upon a reaſonable Eſtimate and Conjecture, will amount to</cell>
+                     <cell>001640</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>And then there will remain in Caſh to Ballance this Accompt</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="total">000272</cell>
+                     <cell role="total">09</cell>
+                     <cell role="total">00 2/4;</cell>
+                  </row>
+                  <row>
+                     <cell>Beſides what remains in the Chamber of <hi>London</hi> of the Coal-Money, amounting to</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="total">002352</cell>
+                     <cell role="total">01</cell>
+                     <cell role="total">05¾</cell>
+                  </row>
+               </table>
+            </p>
+            <p>THE <hi>Work,</hi> now in hand, contains the Chore and Side-Iſles, Eaſtward from the Dome or Steeple; The Dome; Croſs-Iſles; South and North-Portico's; And part of the Body of the Church Weſtward: All which extend in length, from Eaſt to Weſt, 425 Feet. The Chore and Side-Iſles, and Body of the Church, in Breadth, from North to South, 121 Feet; And the Dome, with the Croſs-Iſles and Portico's, 310 Feet, The Dome being 108 Feet in Diameter within the Walls. Under all which are fair, large and ſtately Vaults, being 18 Feet and ½ high from the Floor to the Crown of the Arch; In Length, from Eaſt to Weſt within the Walls, 310 Feet, in Breadth 107 Feet, and in Breadth, under the Dome and Croſs Iſles, 236 Feet. The Foundation of the Fabrick being 22 Feet deep below the Surface of the Church-Yard, and in many places 35 Feet deep: And the Fabrick above-Ground (<hi>viz.</hi> the Steeple, Croſs-Iſles, Veſtry's, Portico's, and the Chore to the Eaſt-end) are 56 Feet high. So that the whole Height of the ſaid Building, from the firſt Foundation to the uppermoſt part, is 78 Feet high, and in ſome Places, 91 Feet high. That Part of the Building, Weſtward from the Dome, is 34 Feet above the Ground of the Church-Yard, the inſide Pillars excepted, which are brought up to the Floor of the Body of the Church.</p>
+            <p>The <hi>Space of Ground,</hi> upon which the Legs of the Steeple and the Dome it ſelf do ſtand, contains half an Acre, half a Quarter of an Acre, and almoſt 4 Perches: The Steeple ſtanding upon 8 ſmaller Legs or Pillars, and 4 greater ones; in one of which great ones is a very large Pair of Stairs, and within the other 3 are fair and ſtately Veſtry's; And every one of the greater Pillars ſtand upon 1360 Feet of Ground ſuperficial Meaſure, and every one of the leſſer ones upon 380 Feet: The Croſs-Iſles, a Quarter of an Acre wanting one Rod; The Portico's, that is the North and South Porch's, Entrance into the Church, half a Quarter of an Acre, and 7 Perches; And the Space of Ground, upon which the Foundation of the new Fabrick now ſtands, and ſo far as they are now laid, contain very near 2 Acres.</p>
+            <p>SInce the <hi>Beginning</hi> of this new Fabrick there hath been brought into the Stores of the Church 20000 Tuns of <hi>Portland</hi> and other Stones; 17500 Hundred's of Lime, and upwards, each Hundred containing 25 Buſhels; 12000 Tuns of Sand, beſides three times the quantity of old Sand ſifted out of the Rubbiſh; 15000 Loads of Bricks, and upwards; 2000 Loads of Timber, Boards and Balks, and upwards; 700 Maſts, great and ſmall, and upwards; 240 Hundred-Weights of Ropes, and upwards; 990 Hundred-Weights of Nails.</p>
+            <p>There have been carried away 47000 Loads of Rubbiſh, and upwards; and old Foundation-Walls hew'd up, (which Work was, for the moſt part, more troubleſom and painful, than Digging in the Quarry) 1550 Cubical Yards, and upwards,</p>
+            <p>THE <hi>Books of Receipts and Payments</hi> are remaining in the Office of Works near the ſaid Church, and are to be ſeen and peruſed by any Perſon, that deſires to be more particularly ſatisfied, or will be pleaſed to promote the ſaid Work.</p>
+            <p>Alſo a <hi>Fair Table</hi> is hung up (expoſed to publick View) within the ſaid Building, wherein the Names of all conſiderable Benefactors are Regiſtred, with their reſpective Do<g ref="char:EOLhyphen"/>nations; there being no more Space left here, in this ſingle Sheet, than to mention
+<table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>The late Archbiſhop <hi>Juxon</hi>'s Legacy of</cell>
+                     <cell>2000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The late Archbiſhop <hi>Sheldon</hi>'s Gift, in his Life-time, of</cell>
+                     <cell>2000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The late Archbiſhop of <hi>York</hi>'s Gift of</cell>
+                     <cell>1850</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The late Biſhop of <hi>Winton</hi>'s Gift of</cell>
+                     <cell>1818</cell>
+                     <cell>14</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edw. Swift</hi> of <hi>Lincolns-Inn</hi> Eſq; his Legacy of</cell>
+                     <cell>1000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Dame <hi>Dioneſe Williamſon,</hi> of <hi>Hales-hall</hi> in <hi>Norfolk,</hi> her Gift of</cell>
+                     <cell>2100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Lady <hi>Rows's</hi> Gift of</cell>
+                     <cell>0800</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Editha Chaffin</hi> of <hi>Guilford</hi> Spinſter's Gift of</cell>
+                     <cell>1253</cell>
+                     <cell>09</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ann Holbech,</hi> late Wife of Dr. <hi>Thomas Holbech,</hi> her Legacy of</cell>
+                     <cell>0500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Lady <hi>Rich,</hi> Relict of Sir <hi>Thomas Rich,</hi> 500 <hi>l.</hi> and 50 <hi>l.</hi> more left by her Husband to a pious uſe, and by her applied to this</cell>
+                     <cell>0550</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jaſper Main,</hi> Canon of <hi>Chriſt-Church</hi> in <hi>Oxford,</hi> his Legacy of</cell>
+                     <cell>0500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Evat</hi> Clerk's Legacy of</cell>
+                     <cell>0300</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Dean and Chapter of St. <hi>Paul</hi>'s</cell>
+                     <cell>3526</cell>
+                     <cell>01</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Sancroft,</hi> D. D. Dean of St. <hi>Paul</hi>'s, (now Lord Archbiſhop of <hi>Canterbury</hi>) beſides his Proportion of the Annual Payment of the Dean and Chapter, 500 <hi>l.</hi> and ſince that time 650 <hi>l.</hi> in all</cell>
+                     <cell>1150</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Univerſity of <hi>Oxford.</hi>
+                     </cell>
+                     <cell>0621</cell>
+                     <cell>17</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>The Univerſity of <hi>Cambridge</hi> (beſides their promiſe of more)</cell>
+                     <cell>1067</cell>
+                     <cell>11</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Benjamin,</hi> late Lord Biſhop of <hi>Ely,</hi>
+                     </cell>
+                     <cell>0500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Peter,</hi> late Lord Biſhop of <hi>Ely,</hi> 450 <hi>l.</hi> beſides 50 <hi>l.</hi> at his Conſecration, in all</cell>
+                     <cell>0500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Thoſe, which we are forced to omit here, are to be ſeen in the <hi>TABLE</hi> abovementioned: As the Lord <hi>Roberts,</hi> late Lord Privy-Seal; A Concealed Perſon by Mr. <hi>Bathurſt;</hi> Dr. <hi>Hamy;</hi> Dr. <hi>Jones,</hi> Subdean of the King's-Chappel; Dr. <hi>Ball,</hi> Maſter of the <hi>Temple; Tobias Ruſtat</hi> Eſq; Yeoman of the Robes; Mr. <hi>Barnabas Oly</hi> Clerk; Mr. <hi>John Hanſon</hi> of <hi>Lothbury; Ralph Snow</hi> Eſq; Sir <hi>Thomas Chichley;</hi> Sir <hi>Thomas Allen</hi> of <hi>Finchley;</hi> Sir <hi>Charles Pitfield; James Ravenſcroft</hi> Eſq; Sir <hi>Thomas Exton;</hi> Sir <hi>Leoline Jenkins;</hi> Mrs. <hi>Margaret Turner;</hi> The Earl of <hi>Burlington;</hi> Sir <hi>Stephen Fox;</hi> The Lady <hi>Wyld,</hi> Relict of Sir <hi>William Wyld;</hi> Sir <hi>Thomas Bridges</hi> of <hi>Covent-Garden:</hi> Each of which gave a 100 <hi>l.</hi> a piece, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>John Tilliſon,</hi> Clerk of the Works.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
